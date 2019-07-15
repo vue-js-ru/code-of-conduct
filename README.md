@@ -53,4 +53,3 @@
 ## Attribution
 	Данные Нормы Поведения являются адаптацией Contributor Covenant, версии 1.4.1, доступного на 
 	https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-	ode Of Conduct for VRDC
